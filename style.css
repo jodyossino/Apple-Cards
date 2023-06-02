@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@500&display=swap');
+
+.card-text{
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bold;
+}
+
+button{
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bold;
+    color: black;
+}
+.btn-dark{
+    background-color: black;
+}
+.btn-danger{
+    background-color: red;
+}
+.btn-info{
+    background-color: #b5ace3;
+}
